@@ -1,0 +1,212 @@
+
+Check HW setup info on 172.30.20.41
+Checking cpu...
+Checking memory...
+/dev/sdh write performance :317 MB/s
+/dev/sdh read performance :512 MB/s
+/dev/sdg write performance :325 MB/s
+/dev/sdg read performance :512 MB/s
+/dev/sdf write performance :333 MB/s
+/dev/sdf read performance :511 MB/s
+/dev/sde write performance :325 MB/s
+/dev/sde read performance :431 MB/s
+/dev/sdd write performance :325 MB/s
+/dev/sdd read performance :511 MB/s
+/dev/sdc write performance :344 MB/s
+/dev/sdc read performance :512 MB/s
+/dev/sdb write performance :318 MB/s
+/dev/sdb read performance :512 MB/s
+/dev/sda write performance :237 MB/s
+/dev/sda read performance :545 MB/s
+Checking # of disk...
+============================
+Check HW setup info on 172.30.20.42
+Checking cpu...
+Checking memory...
+/dev/sdh write performance :313 MB/s
+/dev/sdh read performance :513 MB/s
+/dev/sdg write performance :332 MB/s
+/dev/sdg read performance :511 MB/s
+/dev/sdf write performance :335 MB/s
+/dev/sdf read performance :511 MB/s
+/dev/sde write performance :324 MB/s
+/dev/sde read performance :430 MB/s
+/dev/sdd write performance :336 MB/s
+/dev/sdd read performance :513 MB/s
+/dev/sdc write performance :334 MB/s
+/dev/sdc read performance :512 MB/s
+/dev/sdb write performance :338 MB/s
+/dev/sdb read performance :512 MB/s
+/dev/sda write performance :238 MB/s
+/dev/sda read performance :539 MB/s
+Checking # of disk...
+============================
+Check HW setup info on 172.30.20.43
+Checking cpu...
+Checking memory...
+/dev/sdh write performance :305 MB/s
+/dev/sdh read performance :512 MB/s
+/dev/sdg write performance :321 MB/s
+/dev/sdg read performance :513 MB/s
+/dev/sdf write performance :345 MB/s
+/dev/sdf read performance :512 MB/s
+/dev/sde write performance :317 MB/s
+/dev/sde read performance :433 MB/s
+/dev/sdd write performance :341 MB/s
+/dev/sdd read performance :512 MB/s
+/dev/sdc write performance :326 MB/s
+/dev/sdc read performance :512 MB/s
+/dev/sdb write performance :345 MB/s
+/dev/sdb read performance :511 MB/s
+/dev/sda write performance :263 MB/s
+/dev/sda read performance :545 MB/s
+Checking # of disk...
+============================
+Check HW setup info on 172.30.20.44
+Checking cpu...
+Checking memory...
+/dev/sdh write performance :310 MB/s
+/dev/sdh read performance :513 MB/s
+/dev/sdg write performance :323 MB/s
+/dev/sdg read performance :512 MB/s
+/dev/sdf write performance :341 MB/s
+/dev/sdf read performance :511 MB/s
+/dev/sdb write performance :346 MB/s
+/dev/sdb read performance :512 MB/s
+/dev/sde write performance :319 MB/s
+/dev/sde read performance :433 MB/s
+/dev/sdd write performance :333 MB/s
+/dev/sdd read performance :512 MB/s
+/dev/sdc write performance :332 MB/s
+/dev/sdc read performance :511 MB/s
+/dev/sda write performance :244 MB/s
+/dev/sda read performance :545 MB/s
+Checking # of disk...
+============================
+Check HW setup info on 172.30.20.45
+Checking cpu...
+Checking memory...
+Failed,expected:264563512 actual:264563524
+/dev/sdh write performance :311 MB/s
+/dev/sdh read performance :511 MB/s
+/dev/sdg write performance :338 MB/s
+/dev/sdg read performance :512 MB/s
+/dev/sdf write performance :323 MB/s
+/dev/sdf read performance :511 MB/s
+/dev/sde write performance :327 MB/s
+/dev/sde read performance :433 MB/s
+/dev/sdd write performance :331 MB/s
+/dev/sdd read performance :512 MB/s
+/dev/sdc write performance :338 MB/s
+/dev/sdc read performance :512 MB/s
+/dev/sdb write performance :357 MB/s
+/dev/sdb read performance :511 MB/s
+/dev/sda write performance :264 MB/s
+/dev/sda read performance :545 MB/s
+Checking # of disk...
+============================
+Check HW setup info on 172.30.20.46
+Checking cpu...
+Checking memory...
+/dev/sdh write performance :313 MB/s
+/dev/sdh read performance :513 MB/s
+/dev/sdg write performance :336 MB/s
+/dev/sdg read performance :513 MB/s
+/dev/sdf write performance :353 MB/s
+/dev/sdf read performance :512 MB/s
+/dev/sde write performance :343 MB/s
+/dev/sde read performance :435 MB/s
+/dev/sdd write performance :51.5 MB/s
+/dev/sdd read performance :512 MB/s
+/dev/sdb write performance :329 MB/s
+/dev/sdb read performance :512 MB/s
+/dev/sdc write performance :339 MB/s
+/dev/sdc read performance :512 MB/s
+/dev/sda write performance :278 MB/s
+/dev/sda read performance :545 MB/s
+Checking # of disk...
+============================
+Check HW setup info on 172.30.20.47
+Checking cpu...
+Checking memory...
+/dev/sdh write performance :301 MB/s
+/dev/sdh read performance :326 MB/s
+/dev/sdg write performance :328 MB/s
+/dev/sdg read performance :335 MB/s
+/dev/sdf write performance :341 MB/s
+/dev/sdf read performance :512 MB/s
+/dev/sde write performance :322 MB/s
+/dev/sde read performance :432 MB/s
+/dev/sdd write performance :319 MB/s
+/dev/sdd read performance :509 MB/s
+/dev/sdc write performance :340 MB/s
+/dev/sdc read performance :512 MB/s
+/dev/sdb write performance :317 MB/s
+/dev/sdb read performance :330 MB/s
+/dev/sda write performance :240 MB/s
+/dev/sda read performance :537 MB/s
+Checking # of disk...
+============================
+Check HW setup info on 172.30.20.48
+Checking cpu...
+Checking memory...
+/dev/sdh write performance :303 MB/s
+/dev/sdh read performance :513 MB/s
+/dev/sdg write performance :331 MB/s
+/dev/sdg read performance :512 MB/s
+/dev/sdf write performance :323 MB/s
+/dev/sdf read performance :511 MB/s
+/dev/sde write performance :331 MB/s
+/dev/sde read performance :434 MB/s
+/dev/sdd write performance :338 MB/s
+/dev/sdd read performance :512 MB/s
+/dev/sdc write performance :318 MB/s
+/dev/sdc read performance :512 MB/s
+/dev/sdb write performance :335 MB/s
+/dev/sdb read performance :512 MB/s
+/dev/sda write performance :231 MB/s
+/dev/sda read performance :530 MB/s
+Checking # of disk...
+============================
+Check HW setup info on 172.30.20.49
+Checking cpu...
+Checking memory...
+/dev/sdh write performance :302 MB/s
+/dev/sdh read performance :512 MB/s
+/dev/sdg write performance :329 MB/s
+/dev/sdg read performance :511 MB/s
+/dev/sdc write performance :323 MB/s
+/dev/sdc read performance :512 MB/s
+/dev/sdb write performance :356 MB/s
+/dev/sdb read performance :512 MB/s
+/dev/sde write performance :318 MB/s
+/dev/sde read performance :433 MB/s
+/dev/sdf write performance :362 MB/s
+/dev/sdf read performance :512 MB/s
+/dev/sdd write performance :346 MB/s
+/dev/sdd read performance :511 MB/s
+/dev/sda write performance :261 MB/s
+/dev/sda read performance :544 MB/s
+Checking # of disk...
+============================
+Check HW setup info on 172.30.20.50
+Checking cpu...
+Checking memory...
+/dev/sdh write performance :304 MB/s
+/dev/sdh read performance :512 MB/s
+/dev/sdg write performance :361 MB/s
+/dev/sdg read performance :512 MB/s
+/dev/sdf write performance :342 MB/s
+/dev/sdf read performance :512 MB/s
+/dev/sde write performance :344 MB/s
+/dev/sde read performance :432 MB/s
+/dev/sdd write performance :349 MB/s
+/dev/sdd read performance :511 MB/s
+/dev/sdc write performance :325 MB/s
+/dev/sdc read performance :512 MB/s
+/dev/sdb write performance :321 MB/s
+/dev/sdb read performance :512 MB/s
+/dev/sda write performance :252 MB/s
+/dev/sda read performance :545 MB/s
+Checking # of disk...
+============================
